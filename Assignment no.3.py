@@ -1,4 +1,4 @@
-# Write a program in python to perform Arithmetic Operations (add , subtract , multiplication, Division ) .
+# Write a python code to accept Student Information and display Student Information and average marks 
 
 
  /***************************************************** SOLUTION **************************************************************************/
