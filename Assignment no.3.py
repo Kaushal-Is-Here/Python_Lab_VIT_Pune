@@ -1,0 +1,13 @@
+roll  =int(input("enter roll of student :")) 
+print(roll)
+name =input("enter name of student :")
+print(name)
+physics = int(input("enter marks of physics :"))
+print(physics)
+chemistry = int(input("enter marks of chemistry :"))
+print(chemistry)
+maths = int(input("enter marks of maths :"))
+print(maths)
+avg = float((physics+chemistry+maths)/3) 
+print(" average of 3 subject :",avg)
+
