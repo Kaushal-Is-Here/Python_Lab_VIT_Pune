@@ -1,5 +1,8 @@
 #  Write a Program to Calculate Grade of Student based on Marks obtained.
 
+# /***************************************************** SOLUTION **************************************************************************/
+
+
 print("Enter Marks Obtained in 5 Subjects: ")
 A = int(input())
 B = int(input())
@@ -30,3 +33,13 @@ elif avg>=0 and avg<21:
     print("Your Grade is E2")
 else:
     print("Invalid Input!")
+
+    #***************************************************** Output **************************************************************************/
+    
+#Enter Marks Obtained in 5 Subjects: 
+#90
+#92
+#95
+#96
+#98
+#Your Grade is A1
