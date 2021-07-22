@@ -19,5 +19,4 @@ studentRecord = """CREATE TABLE Employee (
 
 
 mycursor.execute("CREATE DATABASE 1stdatabase ")
-
 mydb.close()
